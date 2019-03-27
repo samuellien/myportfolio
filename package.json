@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/samuellien/myportfolio#readme",
   "dependencies": {
-    "lite-server": "^2.4.0",
     "save-dev": "^2.0.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
   }
 }
