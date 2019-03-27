@@ -18,7 +18,6 @@
     "url": "https://github.com/samuellien/myportfolio/issues"
   },
   "homepage": "https://github.com/samuellien/myportfolio#readme",
-  
   "devDependencies": {
     "lite-server": "^2.4.0"
   }
